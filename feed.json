@@ -1,5 +1,60 @@
 [
  {
+  "id": 6697707,
+  "url": "https://www.daft.ie/share/kilcarbery-grange-clondalkin-dublin-22/6697707",
+  "price": 850,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Clondalkin, Dublin 22",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 14:39:28"
+ },
+ {
+  "id": 6697680,
+  "url": "https://www.daft.ie/share/levmoss-hall-levmoss-park-the-gallops-leopardstown-dublin-18/6697680",
+  "price": 1000,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Leopardstown, Dublin 18",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 14:39:28"
+ },
+ {
+  "id": 6697733,
+  "url": "https://www.daft.ie/share/the-harcourt-building-hali-apartments-cherrywood-dublin-18-cherrywood-dublin-18/6697733",
+  "price": 957,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed apartment",
+  "area": "Cherrywood, Dublin 18",
+  "published": "2026-10-14",
+  "posted_at": "2026-10-15 14:39:28"
+ },
+ {
+  "id": 6697697,
+  "url": "https://www.daft.ie/share/en-suite-larkfield-estate-lucan-co-dublin/6697697",
+  "price": 940,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Lucan, Co. Dublin",
+  "published": "2026-10-14",
+  "posted_at": "2026-10-15 14:39:28"
+ },
+ {
+  "id": 6697690,
+  "url": "https://www.daft.ie/share/inglewood-road-clonsilla-dublin-15-clonsilla-dublin-15/6697690",
+  "price": 700,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Clonsilla, Dublin 15",
+  "published": "2026-10-14",
+  "posted_at": "2026-10-15 14:39:28"
+ },
+ {
   "id": 6697959,
   "url": "https://www.daft.ie/for-rent/leinster-road-rathmines-dublin-6/6697959",
   "price": 1075,
