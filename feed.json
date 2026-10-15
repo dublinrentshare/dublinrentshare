@@ -1,192 +1,5 @@
 [
  {
-  "id": 6698181,
-  "url": "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6698181",
-  "price": 2200,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698175,
-  "url": "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6698175",
-  "price": 2200,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698163,
-  "url": "https://www.daft.ie/for-rent/-grove-park-rathmines-dublin-6/6698163",
-  "price": 2000,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698158,
-  "url": "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6698158",
-  "price": 1800,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "Studio",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698149,
-  "url": "https://www.daft.ie/for-rent/belfry-square-citywest-co-dublin/6698149",
-  "price": 2800,
-  "price_period": "month",
-  "beds": 3,
-  "kind": "3-bed house",
-  "area": "Citywest, Co. Dublin",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698146,
-  "url": "https://www.daft.ie/for-rent/-grove-park-rathmines-dublin-6/6698146",
-  "price": 1800,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "Studio",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698141,
-  "url": "https://www.daft.ie/for-rent/37-balnagowan-palmerston-park-dartry-dublin-6/6698141",
-  "price": 2800,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Dartry, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698133,
-  "url": "https://www.daft.ie/for-rent/-grove-park-rathmines-dublin-6/6698133",
-  "price": 1650,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698112,
-  "url": "https://www.daft.ie/for-rent/rathmines-road-upper-rathmines-dublin-6/6698112",
-  "price": 1650,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698090,
-  "url": "https://www.daft.ie/for-rent/-old-city-pudding-row-temple-bar-dublin-8/6698090",
-  "price": 3600,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed apartment",
-  "area": "Temple Bar, Dublin 8",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698084,
-  "url": "https://www.daft.ie/for-rent/main-street-belmayne-clongriffin-co-dublin/6698084",
-  "price": 1942,
-  "price_period": "month",
-  "beds": null,
-  "kind": "Apartments",
-  "area": "Clongriffin, Co. Dublin",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698073,
-  "url": "https://www.daft.ie/for-rent/grove-park-rathmines-dublin-6/6698073",
-  "price": 2150,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698067,
-  "url": "https://www.daft.ie/for-rent/north-strand-road-dublin-3-north-strand-dublin-3/6698067",
-  "price": 1650,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "Studio",
-  "area": "North Strand, Dublin 3",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6698035,
-  "url": "https://www.daft.ie/for-rent/apartment-2-57-58-dorset-street-lower-north-circular-road-dublin-1/6698035",
-  "price": 1750,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "North Circular Road, Dublin 1",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697999,
-  "url": "https://www.daft.ie/for-rent/belvedere-place-dublin-1/6697999",
-  "price": 1500,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "Studio",
-  "area": "Belvedere Place, Dublin 1",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697988,
-  "url": "https://www.daft.ie/for-rent/apartment-16-old-city-music-hall-copper-alley-d-christchurch-dublin-8/6697988",
-  "price": 3450,
-  "price_period": "month",
-  "beds": 3,
-  "kind": "3-bed apartment",
-  "area": "Christchurch, Dublin 8",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697978,
-  "url": "https://www.daft.ie/for-rent/the-brazen-city-gate-dublin-8/6697978",
-  "price": 2000,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "City Gate, Dublin 8",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
   "id": 6697959,
   "url": "https://www.daft.ie/for-rent/leinster-road-rathmines-dublin-6/6697959",
   "price": 1075,
@@ -195,7 +8,7 @@
   "kind": "Studio",
   "area": "Rathmines, Dublin 6",
   "published": "2026-10-15",
-  "on_ig": true
+  "posted_at": "2026-10-15 12:04:30"
  },
  {
   "id": 6697956,
@@ -206,29 +19,7 @@
   "kind": "Studio",
   "area": "North Circular Road, Dublin 7",
   "published": "2026-10-15",
-  "on_ig": true
- },
- {
-  "id": 6697954,
-  "url": "https://www.daft.ie/for-rent/apartment-3-duff-house-ballybough-dublin-1/6697954",
-  "price": 1850,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Ballybough, Dublin 1",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697940,
-  "url": "https://www.daft.ie/for-rent/grosvenor-square-dublin-6-harolds-cross-dublin-6/6697940",
-  "price": 1995,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Harold's Cross, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
+  "posted_at": "2026-10-15 12:04:30"
  },
  {
   "id": 6697921,
@@ -239,7 +30,7 @@
   "kind": "3-bed house",
   "area": "Tallaght, Dublin 24",
   "published": "2026-10-15",
-  "on_ig": true
+  "posted_at": "2026-10-15 12:04:30"
  },
  {
   "id": 6697920,
@@ -250,29 +41,7 @@
   "kind": "1-bed apartment",
   "area": "Ballyfermot, Dublin 10",
   "published": "2026-10-15",
-  "on_ig": true
- },
- {
-  "id": 6697913,
-  "url": "https://www.daft.ie/for-rent/apartment-204-longboat-quay-south-apartments-hanover-quay-dublin-2/6697913",
-  "price": 2350,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Hanover Quay, Dublin 2",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697912,
-  "url": "https://www.daft.ie/for-rent/apartment-47-alexander-house-tallaght-dublin-24/6697912",
-  "price": 1750,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Tallaght, Dublin 24",
-  "published": "2026-10-15",
-  "on_ig": false
+  "posted_at": "2026-10-15 12:04:30"
  },
  {
   "id": 6697903,
@@ -283,7 +52,7 @@
   "kind": "Studio",
   "area": "Ranelagh, Dublin 6",
   "published": "2026-10-15",
-  "on_ig": true
+  "posted_at": "2026-10-15 12:04:30"
  },
  {
   "id": 6697887,
@@ -294,62 +63,7 @@
   "kind": "1-bed apartment",
   "area": "Rathmines Road Upper, Dublin 6",
   "published": "2026-10-15",
-  "on_ig": true
- },
- {
-  "id": 6697864,
-  "url": "https://www.daft.ie/for-rent/st-johns-sandymount-dublin-4/6697864",
-  "price": 4500,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed apartment",
-  "area": "Sandymount, Dublin 4",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697861,
-  "url": "https://www.daft.ie/for-rent/flat-5-30-elgin-road-ballsbridge-dublin-4/6697861",
-  "price": 3000,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Ballsbridge, Dublin 4",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697859,
-  "url": "https://www.daft.ie/for-rent/lansdowne-village-dublin-4-dublin-4/6697859",
-  "price": 4200,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed house",
-  "area": "Lansdowne Village, Dublin 4",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697857,
-  "url": "https://www.daft.ie/for-rent/apartment-35-the-oaks-herbert-park-lane-ballsbridge-dublin-4/6697857",
-  "price": 3900,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Ballsbridge, Dublin 4",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697852,
-  "url": "https://www.daft.ie/for-rent/murtagh-road-stoneybatter-dublin-7/6697852",
-  "price": 2500,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed house",
-  "area": "Stoneybatter, Dublin 7",
-  "published": "2026-10-15",
-  "on_ig": false
+  "posted_at": "2026-10-15 09:48:16"
  },
  {
   "id": 6697843,
@@ -360,84 +74,7 @@
   "kind": "Studio",
   "area": "North Circular Road, Dublin 1",
   "published": "2026-10-15",
-  "on_ig": true
- },
- {
-  "id": 6697834,
-  "url": "https://www.daft.ie/for-rent/camac-crescent-inchicore-dublin-8/6697834",
-  "price": 2375,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed apartment",
-  "area": "Inchicore, Dublin 8",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697820,
-  "url": "https://www.daft.ie/for-rent/the-burgage-dalkey-dalkey-co-dublin/6697820",
-  "price": 2550,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed house",
-  "area": "Dalkey, Co. Dublin",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697818,
-  "url": "https://www.daft.ie/for-rent/apartment-2-134-rathmines-road-lower-rathmines-dublin-6/6697818",
-  "price": 1750,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Rathmines, Dublin 6",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6696575,
-  "url": "https://www.daft.ie/for-rent/apartment-44-the-northumberlands-love-lane-east-grand-canal-dock-dublin-2/6696575",
-  "price": 2600,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed apartment",
-  "area": "Grand Canal Dock, Dublin 2",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6694491,
-  "url": "https://www.daft.ie/for-rent/42-high-park-dublin-9-drumcondra-dublin-9/6694491",
-  "price": 3500,
-  "price_period": "month",
-  "beds": 3,
-  "kind": "3-bed house",
-  "area": "Drumcondra, Dublin 9",
-  "published": "2026-10-15",
-  "on_ig": false
- },
- {
-  "id": 6697729,
-  "url": "https://www.daft.ie/for-rent/liberties-dublin-8-the-coombe-dublin-8/6697729",
-  "price": 2950,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed house",
-  "area": "The Coombe, Dublin 8",
-  "published": "2026-10-14",
-  "on_ig": false
- },
- {
-  "id": 6697713,
-  "url": "https://www.daft.ie/for-rent/24-grace-park-grove-grace-park-wood-drumcondra-dublin-9/6697713",
-  "price": 3600,
-  "price_period": "month",
-  "beds": 3,
-  "kind": "3-bed house",
-  "area": "Drumcondra, Dublin 9",
-  "published": "2026-10-14",
-  "on_ig": false
+  "posted_at": "2026-10-15 09:48:16"
  },
  {
   "id": 6697703,
@@ -448,7 +85,7 @@
   "kind": "1-bed house",
   "area": "Kiltipper, Dublin 24",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 09:48:16"
  },
  {
   "id": 6697696,
@@ -459,29 +96,7 @@
   "kind": "1-bed apartment",
   "area": "North Circular Road, Dublin 7",
   "published": "2026-10-14",
-  "on_ig": true
- },
- {
-  "id": 6697689,
-  "url": "https://www.daft.ie/for-rent/1-saint-brigids-road-killester-dublin-5/6697689",
-  "price": 1800,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Killester, Dublin 5",
-  "published": "2026-10-14",
-  "on_ig": false
- },
- {
-  "id": 6697686,
-  "url": "https://www.daft.ie/for-rent/76-st-james-court-mountbrown-dublin-8/6697686",
-  "price": 2000,
-  "price_period": "month",
-  "beds": 1,
-  "kind": "1-bed apartment",
-  "area": "Mountbrown, Dublin 8",
-  "published": "2026-10-14",
-  "on_ig": false
+  "posted_at": "2026-10-15 09:48:16"
  },
  {
   "id": 6697675,
@@ -492,29 +107,7 @@
   "kind": "3-bed house",
   "area": "Firhouse, Dublin 16",
   "published": "2026-10-14",
-  "on_ig": true
- },
- {
-  "id": 6697632,
-  "url": "https://www.daft.ie/for-rent/apartment-43-georges-quay-apartments-dublin-2/6697632",
-  "price": 2595,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed apartment",
-  "area": "Georges Quay Apartments, Dublin 2",
-  "published": "2026-10-14",
-  "on_ig": false
- },
- {
-  "id": 6697622,
-  "url": "https://www.daft.ie/for-rent/the-dock-mill-grand-mill-quay-grand-canal-dock-dublin-4/6697622",
-  "price": 3000,
-  "price_period": "month",
-  "beds": 2,
-  "kind": "2-bed apartment",
-  "area": "Grand Canal Dock, Dublin 4",
-  "published": "2026-10-14",
-  "on_ig": false
+  "posted_at": "2026-10-15 09:48:16"
  },
  {
   "id": 6697614,
@@ -525,7 +118,7 @@
   "kind": "2-bed apartment",
   "area": "Drumcondra, Dublin 3",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 09:29:44"
  },
  {
   "id": 6697566,
@@ -536,7 +129,7 @@
   "kind": "Studio",
   "area": "Harold's Cross, Dublin 6",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 09:29:44"
  },
  {
   "id": 6697565,
@@ -547,7 +140,7 @@
   "kind": "1-bed apartment",
   "area": "Sandymount, Dublin 4",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 09:29:44"
  },
  {
   "id": 6697564,
@@ -558,7 +151,7 @@
   "kind": "Studio",
   "area": "Harold's Cross, Dublin 6",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 09:29:44"
  },
  {
   "id": 6697547,
@@ -569,7 +162,7 @@
   "kind": "4-bed house",
   "area": "Beaumont, Dublin 9",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 09:29:44"
  },
  {
   "id": 6697536,
@@ -580,7 +173,7 @@
   "kind": "2-bed apartment",
   "area": "Tallaght, Dublin 24",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 00:17:34"
  },
  {
   "id": 6697513,
@@ -591,7 +184,7 @@
   "kind": "1-bed apartment",
   "area": "Ballsbridge, Dublin 4",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 00:17:34"
  },
  {
   "id": 6697503,
@@ -602,7 +195,7 @@
   "kind": "1-bed apartment",
   "area": "Donnycarney, Dublin 5",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 00:17:34"
  },
  {
   "id": 6697502,
@@ -613,7 +206,7 @@
   "kind": "1-bed apartment",
   "area": "East Wall, Dublin 3",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 00:17:34"
  },
  {
   "id": 6697483,
@@ -624,7 +217,7 @@
   "kind": "2-bed apartment",
   "area": "Charlemont Lane, Dublin 2",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-15 00:17:34"
  },
  {
   "id": 6697466,
@@ -635,7 +228,7 @@
   "kind": "3-bed house",
   "area": "Churchtown, Dublin 16",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-14 23:42:17"
  },
  {
   "id": 6697317,
@@ -646,7 +239,7 @@
   "kind": "4-bed house",
   "area": "Glasthule, Co. Dublin",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-14 23:42:17"
  },
  {
   "id": 6695749,
@@ -657,6 +250,28 @@
   "kind": "3-bed house",
   "area": "Donnycarney, Dublin 5",
   "published": "2026-10-14",
-  "on_ig": true
+  "posted_at": "2026-10-14 23:42:17"
+ },
+ {
+  "id": 6688206,
+  "url": "https://www.daft.ie/for-rent/apt-112-galloping-green-stillorgan-co-dublin-stillorgan-co-dublin/6688206",
+  "price": 2500,
+  "price_period": "month",
+  "beds": 2,
+  "kind": "2-bed apartment",
+  "area": "Stillorgan, Co. Dublin",
+  "published": "2026-10-14",
+  "posted_at": "2026-10-14 23:42:17"
+ },
+ {
+  "id": 6679922,
+  "url": "https://www.daft.ie/for-rent/furry-park-road-dublin-5-killester-dublin-5/6679922",
+  "price": 4000,
+  "price_period": "month",
+  "beds": 3,
+  "kind": "3-bed house",
+  "area": "Killester, Dublin 5",
+  "published": "2026-10-14",
+  "posted_at": "2026-10-14 23:42:17"
  }
 ]
