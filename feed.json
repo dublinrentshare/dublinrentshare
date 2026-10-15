@@ -1,5 +1,60 @@
 [
  {
+  "id": 6697831,
+  "url": "https://www.daft.ie/share/kildare-road-crumlin-co-dublin/6697831",
+  "price": 200,
+  "price_period": "week",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Crumlin, Co. Dublin",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 17:04:01"
+ },
+ {
+  "id": 6697826,
+  "url": "https://www.daft.ie/share/gracefield-road-artane-co-dublin/6697826",
+  "price": 955,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Artane, Co. Dublin",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 17:04:01"
+ },
+ {
+  "id": 6697814,
+  "url": "https://www.daft.ie/share/mart-lane-cornelscourt-co-dublin/6697814",
+  "price": 210,
+  "price_period": "week",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Cornelscourt, Co. Dublin",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 17:04:01"
+ },
+ {
+  "id": 6697787,
+  "url": "https://www.daft.ie/share/48-wesley-lawns-dundrum-co-dublin/6697787",
+  "price": 840,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Dundrum, Co. Dublin",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 17:04:01"
+ },
+ {
+  "id": 6697779,
+  "url": "https://www.daft.ie/share/parkleigh-seven-mills-dublin-22/6697779",
+  "price": 950,
+  "price_period": "month",
+  "beds": 1,
+  "kind": "1-bed house",
+  "area": "Seven Mills, Dublin 22",
+  "published": "2026-10-15",
+  "posted_at": "2026-10-15 17:04:01"
+ },
+ {
   "id": 6697707,
   "url": "https://www.daft.ie/share/kilcarbery-grange-clondalkin-dublin-22/6697707",
   "price": 850,
